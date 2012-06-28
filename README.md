@@ -1,4 +1,3 @@
-bgbg.github.com
-===============
+#Boris Gorelik development site
 
-My personal site
+Nothing interesting here, yet
