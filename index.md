@@ -6,7 +6,7 @@ title: "Boris Gorelik home page"
 Hello,
 
 my name is Boris Gorelik. I'm a data scientist and algorithm developer. 
-Ever since May 2014 I'm a data scientist at [Automattic][a8c] -- the fabulous company behind th even more fabulous [WordPress][wp].
+Ever since May 2014 I'm a data scientist at [Automattic][a8c] -- the fabulous company behind the even more fabulous [WordPress][wp].
 
 Until recently I worked at  RSA -- the security devision of EMC. At RSA I was a co-developer of an online outlier detection algorithm. This algorithm (called [TAnDeM][tandem]) provides smart, flexible and robust risk assessment associated with online activities in cases where the data are cheap, the labels are expensive and the service providers do not tolerate black box solutions.
 
