@@ -1,9 +1,7 @@
-markdown: rdiscount
+markdown: kramdown
 pygments: true
 permalink: /posts/:title
 auto: true
-rdiscount:
-  extensions: [smart]
 
 name: Boris Gorelik
 url: http://gorelik.net
