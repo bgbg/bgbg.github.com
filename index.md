@@ -17,11 +17,11 @@ Before joining RSA, I worked for more than four years as a senior bioinformatici
 
 
 
-##What's on this site?
+## What's on this site?
 
 Not too much
 
-##How to contact me?
+## How to contact me?
 The best and the easiest way is to write me to [boris@gorelik.net][mail]
 
 <sub>Photo by [Luca Sartoni][luca]</sub>
