@@ -17,7 +17,6 @@ The best and the easiest way is to write me to [boris@gorelik.net][mail]
 
 <script type="text/javascript" src="https://form.jotformeu.com/jsform/70774948911367"></script>
 
-<sub>Photo by [Luca Sartoni][luca]</sub>
 
 ## What did I do before my current position?
 
@@ -38,3 +37,6 @@ Before joining RSA, I worked for more than four years as a senior bioinformatici
 [luca]: http://lucasartoni.com
 [wordcamp-israel]: https://2016.israel.wordcamp.org/
 [wordcamp-israel-post]: https://randomstratum.wordpress.com/2016/03/30/a-problem-shared-is-a-problem-halved-2/
+
+
+<sub>Photo by [Luca Sartoni][luca]</sub>
