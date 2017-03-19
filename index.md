@@ -24,6 +24,8 @@ Not too much
 ## How to contact me?
 The best and the easiest way is to write me to [boris@gorelik.net][mail]
 
+<script type="text/javascript" src="https://form.jotformeu.com/jsform/70774948911367"></script>
+
 <sub>Photo by [Luca Sartoni][luca]</sub>
 
 
