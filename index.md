@@ -16,9 +16,6 @@ Follow my blog, [randomstratum.wordpress.com](https://randomstratum.wordpress.co
 ## How to contact me?
 The best and the easiest way is to write me to [boris@gorelik.net][mail]
 
-<script type="text/javascript" src="https://form.jotformeu.com/jsform/70774948911367"></script>
-
-
 ## What did I do before my current position?
 
 Until 2014 I worked at  RSA -- the security division of EMC. At RSA, I was a co-developer of an online outlier detection algorithm named [TAnDeM](tandem). This algorithm is designed for cases where the data are cheap; the labels are expensive, and the service providers do not tolerate black box solutions.
